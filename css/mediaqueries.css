@@ -1,0 +1,19 @@
+@media screen and (max-width:767px){
+
+    .card-ca{
+      justify-content: center !important;
+    }
+
+    .mb-4{
+      padding: 0 !important;
+  color: white !important;
+  text-align: center !important;
+    }
+
+    .p4{
+      padding: 0 !important;
+      color: white;
+      width: 100%;
+      text-align: center;
+    }
+  }
